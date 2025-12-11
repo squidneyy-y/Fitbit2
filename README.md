@@ -2,7 +2,7 @@
 
 Submitted by: **Sidney Green**
 
-**FitbiT2** is a health metrics app that allows users to track Water intake, calories, and food eaten.
+**FitbiT 2** is a health metrics app that allows users to track Water intake, calories, and food eaten.
 
 Time spent: **9** hours spent in total
 
